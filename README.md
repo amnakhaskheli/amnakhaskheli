@@ -1,141 +1,109 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:101C2C,50:153D45,100:245B58&height=190&section=header&text=AMNA%20KHASKHELI&fontSize=43&fontColor=FFFFFF&fontAlignY=42&desc=SOFTWARE%20DEVELOPMENT%20%7C%20IT%20STUDENT&descSize=15&descAlignY=65&animation=fadeIn" width="100%" /><br/>""Typing SVG" (https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1000&color=6DA987&center=true&vCenter=true&width=600&lines=Building+Practical+Software+Solutions;C%23+%7C+.NET+%7C+SQL+Server;Exploring+Backend+Development+%26+QA;Learning+%7C+Building+%7C+Improving)" (https://git.io/typing-svg)
+<div align="center">
 
-<br/>""GitHub" (https://img.shields.io/badge/GitHub-Profile-182536?style=flat-square&logo=github)" (https://github.com/amnakhaskheli)
-""Profile Views" (https://komarev.com/ghpvc/?username=amnakhaskheli&style=flat-square&color=245B58)" (https://github.com/amnakhaskheli)
+<img src="assets/hero.svg" width="100%" alt="Amna Khaskheli · Software Developer · IT Student · QA Enthusiast" />
 
-</div>---
+<br/><br/>
 
-<table>
-<tr>
-<td width="60%" valign="top">ABOUT ME
+<a href="#about"><b>ABOUT</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#skills"><b>SKILLS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#projects"><b>PROJECTS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#journey"><b>JOURNEY</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#analytics"><b>ANALYTICS</b></a> &nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#contact"><b>CONTACT</b></a>
 
-I'm an undergraduate Information Technology student at Government College University Hyderabad (GCUH), passionate about software development, backend programming, and quality assurance.
+<br/><br/>
 
-I enjoy turning concepts into practical applications, solving problems, debugging code, and exploring how software works behind the scenes.
+<a href="https://github.com/amnakhaskheli"><img src="https://img.shields.io/badge/GitHub-amnakhaskheli-8B5CF6?style=flat-square&logo=github&logoColor=white&labelColor=0B1128" alt="GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=amnakhaskheli&label=Views&style=flat-square&color=22D3EE&labelColor=0B1128" alt="Profile views" />
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-34D399?style=flat-square&labelColor=0B1128" alt="Open to opportunities" />
 
-- 🎓 BS Information Technology — 4th Semester
-- 💻 C, C#, .NET and SQL Server
-- 🔍 Interested in QA & Software Testing
-- 🌐 Exploring ASP.NET MVC and Web Development
-- 🚀 Focused on practical software projects
-- 📚 Always learning and improving
+</div>
 
-</td>
-<td width="40%" valign="middle" align="center"><img src="https://github-readme-stats.vercel.app/api?username=amnakhaskheli&show_icons=true&hide_border=true&bg_color=101C2C&title_color=6DA987&icon_color=6DA987&text_color=E5EDF5" width="100%" /></td>
-</tr>
-</table>TECHNICAL SKILLS
+<br/><br/>
 
-<div align="center">PROGRAMMING
+<a name="about"></a>
+<img src="assets/title-about.svg" width="100%" alt="About Me" />
 
-<img src="https://skillicons.dev/icons?i=c,cs,python,js&theme=dark" /><br/>FRAMEWORKS & WEB
+<br/>
 
-<img src="https://skillicons.dev/icons?i=dotnet,html,css&theme=dark" /><br/>DATABASES & TOOLS
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,visualstudio,vscode&theme=dark" /></div>FEATURED PROJECTS
+I'm an **undergraduate IT student at Government College University Hyderabad (GCUH)**,<br/>
+passionate about software development, backend programming and quality assurance.
 
-<table>
-<tr>
-<td width="50%" valign="top">🩸 Smart Blood Bank Management System
+I enjoy turning concepts into practical applications, solving problems,<br/>
+debugging code, and exploring how software works behind the scenes.
 
-C# Windows Forms | SQL Server
+<br/>
 
-A desktop application for managing blood donors and blood inventory.
+<img src="assets/terminal.svg" width="82%" alt="About Amna as C# code" />
 
-- Donor registration and management
-- Blood stock operations
-- Search by blood group and location
-- SQL Server database integration
+</div>
 
-" VIEW PROJECT →" (https://github.com/amnakhaskheli/Blood-Bank-Management-System)
+<br/><br/><br/>
 
-</td>
-<td width="50%" valign="top">📝 To-Do List
+<a name="skills"></a>
+<img src="assets/title-skills.svg" width="100%" alt="Tech Stack" />
 
-HTML | CSS | JavaScript
+<br/>
 
-A simple task management application focused on interactive frontend functionality.
+<div align="center">
+<img src="assets/skills.svg" width="100%" alt="C, C#, Python, JavaScript, .NET, ASP.NET Core MVC, Entity Framework, HTML, CSS, SQL Server, MySQL, Git, GitHub, Visual Studio, VS Code" />
+</div>
 
-- Add new tasks
-- Manage task lists
-- Clear tasks
-- Interactive user interface
+<br/><br/><br/>
 
-" VIEW PROJECT →" (https://github.com/amnakhaskheli/To-Do-List)
+<a name="projects"></a>
+<img src="assets/title-projects.svg" width="100%" alt="Projects" />
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">🔮 Horoscope
+<br/>
 
-C# | Console Application
+<div align="center">
 
-A beginner-level console application exploring zodiac signs and related information.
+<a href="https://github.com/amnakhaskheli/Blood-Bank-Management-System"><img src="assets/project-1.svg" width="49%" alt="Smart Blood Bank Management System" /></a>
+<a href="https://github.com/amnakhaskheli/To-Do-List"><img src="assets/project-2.svg" width="49%" alt="To-Do List" /></a>
 
-- Zodiac sign identification
-- Birthstones and elements
-- Personality descriptions
-- Conditional logic and arrays
+<a href="https://github.com/amnakhaskheli/Horoscope"><img src="assets/project-3.svg" width="49%" alt="Horoscope" /></a>
+<img src="assets/project-4.svg" width="49%" alt="SmartDesk Assistant" />
 
-" VIEW PROJECT →" (https://github.com/amnakhaskheli/Horoscope)
+<br/>
 
-</td>
-<td width="50%" valign="top">🤖 SmartDesk Assistant
+<img src="assets/also-built.svg" width="100%" alt="Also built: ERP Attendance System, SmartDine ERP, C# Calculator, Python Internship Tasks" />
 
-C# | .NET | OOP
+</div>
 
-An ongoing desktop assistant project focused on modular application development.
+<br/><br/><br/>
 
-- Core and UI separation
-- Object-oriented design
-- Desktop application development
-- Future database integration
+<a name="journey"></a>
+<img src="assets/title-experience.svg" width="100%" alt="Journey" />
 
-</td>
-</tr>
-</table>OTHER DEVELOPMENT WORK
+<br/>
 
-Project| Technologies
-ERP Attendance System| ASP.NET Core MVC, EF Core, SQL Server
-SmartDine ERP| Restaurant Management & ERP Concepts
-C# Calculator| C#
-Python Internship Tasks| Python
+<div align="center">
+<img src="assets/timeline.svg" width="100%" alt="Aspire Leaders Program, Horizon TechX Python Internship, current focus" />
+</div>
 
-EXPERIENCE & DEVELOPMENT
+<br/><br/><br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">Aspire Leaders Program
+<a name="analytics"></a>
+<img src="assets/title-stats.svg" width="100%" alt="GitHub Analytics" />
 
-Cohort 4 — 2026
+<br/>
 
-Selected participant in a leadership development program focused on personal and professional growth.
+<div align="center">
 
-</td>
-<td width="50%" valign="top">Horizon TechX
+<img src="https://github-readme-stats.vercel.app/api?username=amnakhaskheli&show_icons=true&hide_border=true&bg_color=0B1128&title_color=22D3EE&icon_color=F472B6&text_color=E6EAF5&border_radius=22&rank_icon=github" width="49%" alt="GitHub stats" />
+<img src="https://streak-stats.demolab.com?user=amnakhaskheli&hide_border=true&background=0B1128&ring=8B5CF6&fire=F472B6&currStreakLabel=22D3EE&sideLabels=E6EAF5&dates=8A94B8&currStreakNum=FFFFFF&sideNums=FFFFFF&border_radius=22" width="49%" alt="GitHub streak" />
 
-Python Internship
+<br/><br/>
 
-Working on practical Python programming tasks, automation, and beginner-level application development.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amnakhaskheli&bg_color=0B1128&color=22D3EE&line=8B5CF6&point=F472B6&area=true&area_color=8B5CF6&hide_border=true&radius=22" width="100%" alt="Contribution activity" />
 
-</td>
-</tr>
-</table>CURRENT FOCUS
+</div>
 
-- Backend Development with C# and .NET
-- ASP.NET Core MVC and Entity Framework
-- SQL Server and Database Management
-- Software Quality Assurance & Testing
-- Object-Oriented Programming and Data Structures
-- Practical Application Development
+<br/><br/><br/>
 
-GITHUB ANALYTICS
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=amnakhaskheli&show_icons=true&hide_border=true&bg_color=101C2C&title_color=6DA987&icon_color=6DA987&text_color=E5EDF5&rank_icon=github" width="49%" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amnakhaskheli&layout=compact&hide_border=true&bg_color=101C2C&title_color=6DA987&text_color=E5EDF5" width="49%" /><br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=amnakhaskheli&hide_border=true&background=101C2C&ring=6DA987&fire=6DA987&currStreakLabel=6DA987&sideLabels=E5EDF5&dates=9AAAB8&currStreakNum=FFFFFF&sideNums=FFFFFF" width="75%" /></div>CONNECT WITH ME
-
-<div align="center">""GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)" (https://github.com/amnakhaskheli)
-
-Open to learning, collaboration and meaningful opportunities.
-
-<br/><img src="https://capsule-render.vercel.app/api?type=rect&color=0:101C2C,100:245B58&height=85&section=footer&text=LEARN%20%7C%20BUILD%20%7C%20GROW&fontSize=19&fontColor=FFFFFF&animation=fadeIn" width="100%" /></div>
+<a name="contact"></a>
+<div align="center">
+<a href="https://github.com/amnakhaskheli"><img src="assets/contact.svg" width="100%" alt="Let's build something great together — github.com/amnakhaskheli" /></a>
+</div>
